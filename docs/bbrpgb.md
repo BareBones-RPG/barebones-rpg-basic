@@ -280,19 +280,32 @@ A playable character in BareBones RPG is equipped with armor and weapons—essen
 **Example Combat:**
 
 > Referee: "You are surprised! The goblins react immediately to your forced entry into the chamber. They're armed and staring down the intruder. Fighter—you were trained for this! Make an AGILITY (Defense) roll."
+> 
 > Player: "I will! These rag-sacks won't stop me!" (The player has a 2/6 AGILITY)
+> 
 > The player rolls a 5 on their Defense roll. The goblin hits.
+> 
 > Referee: Rolls a d4 for the goblin's damage—gets a 4.
+> 
 > Referee: "The goblin looses an arrow from its poorly made bow. Fighter—roll your armor reduction!"
+> 
 > Player: "Yes! Maybe it won’t hit as hard." (The fighter rolls 1d2 for leather armor and gets a 2.)
+> 
 > Player: "I got a two!"
+> 
 > Referee: "It's just a scratch for now—no Strike taken. Let’s roll for initiative!"
 
 **To-Hit:**
 > Referee: "The goblin snarls and steps back, drawing a jagged dagger. You're up, Fighter—what do you do?"
+> 
 > Player: "I charge and swing my axe right at its neck!" (The Fighter has a MIGHT of 3.)
+> 
 > Referee: "Alright, roll your MIGHT. You’ll need a 3 or lower to hit."
+> 
 > The player rolls a 2 — a hit!
+> 
 > Player: "Yes! Solid hit—now for damage." (The axe deals 1d6. Player rolls a 6 — maximum damage.)
+> 
 > Referee: "That’s a Strike! You catch the goblin right in the collarbone—it lets out a shriek and stumbles back, blood pouring from the wound. It drops."
+> 
 > Player: "I press forward, shield up!"
