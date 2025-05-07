@@ -256,8 +256,6 @@ This character is built for agility-based actions—sneaking, disabling traps, d
 
 A playable character in BareBones RPG is equipped with armor and weapons—essential gear for those who undertake dangerous tasks like dungeon delving and battling chaotic or evil foes. Armor helps absorb damage, while weapons are used to inflict it. However, a Strike is only dealt when the attacker rolls the maximum value on their weapon’s damage die, whether targeting players or enemies. Non-max rolls may still cause narrative wounds or half Strikes, which the Referee can use to reflect grazes, glancing blows, or minor injuries depending on the tone of the game.
 
-
-
 <!--TOC link--><a name="damage"></a>
 #### Damage
 
@@ -267,6 +265,7 @@ A playable character in BareBones RPG is equipped with armor and weapons—essen
 |Half Strike| Narrative effect for minor wounds, may accumulate into a full strike.|
 |Armor| Reduces incoming damage. If damage is fully absorbed, no Strike marking occurs.|
 |Uarmored|Takes full damage; more likely to suffer strikes if max damage is rolled.| 
+
 
 > **COMBAT Phase 1:** 
 > 1. The Referee asks players to declare their actions for the round.
@@ -278,7 +277,22 @@ A playable character in BareBones RPG is equipped with armor and weapons—essen
 >   4. Melee attacks
 > 4. The opposing side then resolves their actions in the same order.
 
+**Example Combat:**
 
+> Referee: "You are surprised! The goblins react immediately to your forced entry into the chamber. They're armed and staring down the intruder. Fighter—you were trained for this! Make an AGILITY (Defense) roll."
+> Player: "I will! These rag-sacks won't stop me!" (The player has a 2/6 AGILITY)
+> The player rolls a 5 on their Defense roll. The goblin hits.
+> Referee: Rolls a d4 for the goblin's damage—gets a 4.
+> Referee: "The goblin looses an arrow from its poorly made bow. Fighter—roll your armor reduction!"
+> Player: "Yes! Maybe it won’t hit as hard." (The fighter rolls 1d2 for leather armor and gets a 2.)
+> Player: "I got a two!"
+> Referee: "It's just a scratch for now—no Strike taken. Let’s roll for initiative!"
 
-
-
+**To-Hit:**
+> Referee: "The goblin snarls and steps back, drawing a jagged dagger. You're up, Fighter—what do you do?"
+> Player: "I charge and swing my axe right at its neck!" (The Fighter has a MIGHT of 3.)
+> Referee: "Alright, roll your MIGHT. You’ll need a 3 or lower to hit."
+> The player rolls a 2 — a hit!
+> Player: "Yes! Solid hit—now for damage." (The axe deals 1d6. Player rolls a 6 — maximum damage.)
+> Referee: "That’s a Strike! You catch the goblin right in the collarbone—it lets out a shriek and stumbles back, blood pouring from the wound. It drops."
+> Player: "I press forward, shield up!"
