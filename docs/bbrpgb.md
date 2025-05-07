@@ -266,6 +266,8 @@ A playable character in BareBones RPG is equipped with armor and weapons—essen
 |Armor| Reduces incoming damage. If damage is fully absorbed, no Strike marking occurs.|
 |Uarmored|Takes full damage; more likely to suffer strikes if max damage is rolled.| 
 
+<!--TOC link--><a name="combat"></a>
+### COMBAT
 
 > **COMBAT Phase 1:** 
 > 1. The Referee asks players to declare their actions for the round.
