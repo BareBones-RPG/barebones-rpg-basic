@@ -2,7 +2,7 @@
 
 ## Index.md
 
-![](<!-- TOC link--><a name="barebones-basic-edition"></a>
+<!-- TOC link--><a name="barebones-basic-edition"></a>
 # BAREBONES (Basic Edition)
 
 ![logo](https://img.itch.zone/aW1nLzEzNTY5NjU4LnBuZw==/original/Aals9F.png)
