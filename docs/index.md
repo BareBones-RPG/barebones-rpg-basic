@@ -33,6 +33,7 @@ The full text is licensed under the [Creative Commons Attribution 4.0](https://c
 - [Kin](#kin)
 - [Understanding Strikes](#understanding-strikes)
 - [Character Sheet Example](#barebones-rpg-character-sheet)
+- [Armor & Weapons](#armor-weapons)
 
 ---
 
@@ -249,8 +250,8 @@ This character is built for agility-based actions—sneaking, disabling traps, d
 
 ---
 
-<!--TOC link--><a name="weapons"></a>
-### Weapons
+<!--TOC link--><a name="armor-weapons"></a>
+### Armor & Weapons
 
 A playable character in BareBones RPG will have armor and weapons.
 
