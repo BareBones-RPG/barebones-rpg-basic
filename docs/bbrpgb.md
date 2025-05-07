@@ -1,3 +1,7 @@
+# BareBones RPG Basci Edition
+
+## Index.md
+
 <!-- TOC link--><a name="barebones-basic-edition"></a>
 # BAREBONES (Basic Edition)
 
@@ -12,8 +16,7 @@
 **Written by:** Victor Gregory Matos  
 **Logo by:** Drawsyourstuff
 
-The full text is licensed under the  
-[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
+The full text is licensed under the [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
@@ -30,6 +33,8 @@ The full text is licensed under the
 - [Kin](#kin)
 - [Understanding Strikes](#understanding-strikes)
 - [Character Sheet Example](#barebones-rpg-character-sheet)
+- [Armor & Weapons](#armor-weapons)
+- [Damage](#damage)
 
 ---
 
@@ -52,14 +57,14 @@ The full text is licensed under the
 Each Player Character (PC) has a set of attributes, each represented by a number from 1 to 5. To perform an action tied to an attribute, the player must roll a number equal to or lower than the attribute's value using a six-sided die (d6).
 
 **Example:**  
-If a PC has a Might score of 3, they must roll a 3 or less on 1d6 to successfully force open a door.
+If a PC has a Might score of 3, they must roll a 3 or less on 1d6 to successfully **force open a door**.
 
 ---
 
 <!-- TOC link--><a name="character-creation"></a>
 ### CHARACTER CREATION
 
-*BareBones RPG* is system-agnostic and setting-neutral. Want to play a thief in a high- or low-fantasy world? Go for it. Prefer to be a paranormal investigator in a modern or historical era? Absolutely.
+*BareBones RPG* is *system-agnostic and setting-neutral*. Want to play a thief in a high- or low-fantasy world? Go for it. Prefer to be a paranormal investigator in a modern or historical era? Absolutely.
 
 This game is designed to support any genre or tone, whether you're running sword-and-sorcery adventures, gritty noir mysteries, or post-apocalyptic survival tales. *BareBones RPG* gives the Game Master or Referee tools and freedom to shape the world and story using a simple d6-based system.
 
@@ -85,6 +90,7 @@ After assigning attributes, the player and Referee discuss the setting and choos
 **Willpower** — *Resist fear, use relics or magic weapons, cast spells, perform rituals*
 
 Each attribute must have a score between **1 and 5**.  
+
 No attribute can begin at **0**, and **no score may exceed 5**—even if the player has points remaining. Any extra points can be discarded or saved at the Referee’s discretion.
 
 ---
@@ -242,4 +248,26 @@ Below is an example of a completed character sheet using the **heroic tone** (8 
 ---
 
 This character is built for agility-based actions—sneaking, disabling traps, dodging danger—but can still hold their own in combat or exploration.
+
+---
+
+<!--TOC link--><a name="armor-weapons"></a>
+### Armor & Weapons
+
+A playable character in BareBones RPG is equipped with armor and weapons—essential gear for those who undertake dangerous tasks like dungeon delving and battling chaotic or evil foes. Armor helps absorb damage, while weapons are used to inflict it. However, a Strike is only dealt when the attacker rolls the maximum value on their weapon’s damage die, whether targeting players or enemies. Non-max rolls may still cause narrative wounds or half Strikes, which the Referee can use to reflect grazes, glancing blows, or minor injuries depending on the tone of the game.
+
+
+
+<!--TOC link--><a name="damage"></a>
+#### Damage
+
+|Term|Effect|
+|---|---|
+|Strike|Caused only when the maximum value is rolled on a weapons' die.|
+|Half Strike| Narrative effect for minor wounds, may accumulate into a full strike.|
+|Armor| Reduces incoming damage. If damage is fully absorbed, no Strike marking occurs.|
+|Uarmored|Takes full damage; more likely to suffer strikes if max damage is rolled.| 
+
+
+
 
