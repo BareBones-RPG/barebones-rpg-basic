@@ -197,4 +197,47 @@ This system encourages fast-paced, cinematic storytelling over number-crunching.
 
 ---
 
+<!-- TOC link--><a name="barebones-rpg-character-sheet"></a>
+### CHARACTER SHEET EXAMPLE
+
+Below is an example of a completed character sheet using the **heroic tone** (8 points distributed among attributes):
+
+---
+
+**Name:** Jack Napier  
+*A character should have a name—and maybe a title or alias.*
+
+**Archetype:** Thief  
+*Jack is agile, sneaky, and knows how to handle traps and underground dealings.*
+
+**Kin:** Human  
+*+1 Willpower bonus*  
+**Kin Ability:** Once per session, Jack can justify using a different attribute for a roll if it makes narrative sense. The Referee must approve.
+
+**Strikes:** [ ] [ ] [ ]  
+*All characters start with 3 Strikes to represent their ability to take damage.*
+
+---
+
+**ATTRIBUTES**
+
+- **Agility:** 3  
+- **Insight:** 2  
+- **Might:** 2  
+- **Willpower:** 1 (+1 from Kin bonus)  
+
+(*Final Willpower score is 2*)
+
+---
+
+**Gear & Weapons**
+
+- Dagger (1d4 damage)  
+- Leather Armor (reduces incoming damage by -d2)  
+- Thieves’ Tools  
+- Worn hooded cloak  
+
+---
+
+This character is built for agility-based actions—sneaking, disabling traps, dodging danger—but can still hold their own in combat or exploration.
 
