@@ -1,6 +1,8 @@
 <!-- TOC link--><a name="barebones-basic-edition"></a>
 # BAREBONES (Basic Edition)
 
+![logo](https://img.itch.zone/aW1nLzEzNTY5NjU4LnBuZw==/original/Aals9F.png)
+
 <!-- TOC link--><a name="the-role-playing-game"></a>
 ## THE ROLE-PLAYING GAME
 
