@@ -6,6 +6,7 @@
 
 Written by **Victor Gregory Matos**  
 Logo by **Drawsyourstuff**  
+
 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
@@ -56,7 +57,5 @@ Want a peek at what’s inside?
 
 This game is licensed under the Creative Commons Attribution 4.0 International License.  
 You are free to share, remix, and adapt with credit. Just don’t remove the original attribution.
-
-> *Play bare. Play bold. Play BareBones.*
 
 ---
