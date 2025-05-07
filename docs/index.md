@@ -16,8 +16,7 @@
 **Written by:** Victor Gregory Matos  
 **Logo by:** Drawsyourstuff
 
-The full text is licensed under the  
-[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
+The full text is licensed under the [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
@@ -56,14 +55,14 @@ The full text is licensed under the
 Each Player Character (PC) has a set of attributes, each represented by a number from 1 to 5. To perform an action tied to an attribute, the player must roll a number equal to or lower than the attribute's value using a six-sided die (d6).
 
 **Example:**  
-If a PC has a Might score of 3, they must roll a 3 or less on 1d6 to successfully force open a door.
+If a PC has a Might score of 3, they must roll a 3 or less on 1d6 to successfully **force open a door**.
 
 ---
 
 <!-- TOC link--><a name="character-creation"></a>
 ### CHARACTER CREATION
 
-*BareBones RPG* is system-agnostic and setting-neutral. Want to play a thief in a high- or low-fantasy world? Go for it. Prefer to be a paranormal investigator in a modern or historical era? Absolutely.
+*BareBones RPG* is *system-agnostic and setting-neutral*. Want to play a thief in a high- or low-fantasy world? Go for it. Prefer to be a paranormal investigator in a modern or historical era? Absolutely.
 
 This game is designed to support any genre or tone, whether you're running sword-and-sorcery adventures, gritty noir mysteries, or post-apocalyptic survival tales. *BareBones RPG* gives the Game Master or Referee tools and freedom to shape the world and story using a simple d6-based system.
 
@@ -89,6 +88,7 @@ After assigning attributes, the player and Referee discuss the setting and choos
 **Willpower** — *Resist fear, use relics or magic weapons, cast spells, perform rituals*
 
 Each attribute must have a score between **1 and 5**.  
+
 No attribute can begin at **0**, and **no score may exceed 5**—even if the player has points remaining. Any extra points can be discarded or saved at the Referee’s discretion.
 
 ---
@@ -246,4 +246,13 @@ Below is an example of a completed character sheet using the **heroic tone** (8 
 ---
 
 This character is built for agility-based actions—sneaking, disabling traps, dodging danger—but can still hold their own in combat or exploration.
+
+---
+
+<!--TOC link--><a name="weapons"></a>
+### Weapons
+
+A playable character in BareBones RPG will have armor and weapons.
+
+
 
