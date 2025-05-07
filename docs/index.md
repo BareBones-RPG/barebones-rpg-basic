@@ -36,7 +36,7 @@ BareBones RPG is a rules-light system designed for fast, imaginative gameplay ac
 
 You can explore the full game rules in these formats:
 
-- 📖 [Read it in Markdown](docs/bbrpgb.md)
+- 📖 [Read it in Markdown](/docs/bbrpgb.md)
 - 📥 [Coming Soon!](#)
 
 ---
