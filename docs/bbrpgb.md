@@ -31,6 +31,10 @@ The full text is licensed under the [Creative Commons Attribution 4.0](https://c
 - [Character Sheet Example](#barebones-rpg-character-sheet)
 - [Armor & Weapons](#armor-weapons)
 - [Damage](#damage)
+- [Combat](#combat)
+- [Armor List](#armor-list)
+- [Weapon List](#weapon-list)
+- [How Strikes Damage Works?](#how-strikes-damage-works)
 
 ---
 
@@ -285,7 +289,7 @@ A playable character in BareBones RPG is equipped with armor and weapons—essen
 > 
 > Referee: Rolls a d4 for the goblin's damage—gets a 4.
 > 
-> Referee: "The goblin looses an arrow from its poorly made bow. Fighter—roll your armor reduction!"
+> Referee: "The goblin releases an arrow from its poorly made bow. Fighter—roll your armor reduction!"
 > 
 > Player: "Yes! Maybe it won’t hit as hard." (The fighter rolls 1d2 for leather armor and gets a 2.)
 > 
@@ -310,7 +314,7 @@ A playable character in BareBones RPG is equipped with armor and weapons—essen
 
 ---
 
-<!--TOC link--><a name="armor-list">
+<!--TOC link--><a name="armor-list"></a>
 ### Armor List
 *BareBones RPG Basic* features a streamlined armor system:
 
@@ -330,7 +334,7 @@ The enemy rolls double damage if a player rolls a fumble (typically a 6 on their
 
 ---
 
-<!--TOC link---><a name="weapon-list"
+<!--TOC link---><a name="weapon-list"></a>
 ### Weapon List
 
 | Weapon       | Damage Die | Strike Hits on Maximum Die   | Tags                                |
@@ -350,7 +354,8 @@ The enemy rolls double damage if a player rolls a fumble (typically a 6 on their
 
 ---
 
-### Strike Damage
+<!--TOC link---><a name="how-strikes-damage-works"></a>
+### How Strike Damage Works
 
 - A weapon only deals a **Strike** if it rolls the **maximum value** on its damage die.  
 - If the attack is a **critical hit**, it deals **2 Strikes** instead of 1 on a max roll.  
@@ -374,5 +379,9 @@ The enemy rolls double damage if a player rolls a fumble (typically a 6 on their
 - **Brutal** — Can trigger lingering wounds on a max damage roll.  
 - **Chops** — Useful for breaking objects or dismemberment.  
 - **Crude** — Common, often improvised or makeshift.
+
+---
+
+
 
 
