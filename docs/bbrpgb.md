@@ -330,6 +330,49 @@ The enemy rolls double damage if a player rolls a fumble (typically a 6 on their
 
 ---
 
+<!--TOC link---><a name="weapon-list"
+### Weapon List
 
+| Weapon       | Damage Die | Strike Hits on Maximum Die   | Tags                                |
+|--------------|------------|------------------------------|--------------------------------------|
+| Dagger       | 1d4        | 1 Strike (on a 4), 2 on crit | *Light, Finesse, Concealable*        |
+| Short Sword  | 1d6        | 1 Strike (on a 6), 2 on crit | *Light, Finesse*                     |
+| Longsword    | 1d8        | 1 Strike (on an 8), 2 on crit | *Versatile, Melee*                   |
+| Greatsword   | 1d10       | 1 Strike (on a 10), 2 on crit | *Two-Handed, Heavy*                  |
+| Club         | 1d4        | 1 Strike (on a 4), 2 on crit | *Crude, Blunt*                       |
+| Mace         | 1d6        | 1 Strike (on a 6), 2 on crit | *Blunt, Armor-Piercing*              |
+| Axe          | 1d8        | 1 Strike (on an 8), 2 on crit | *Brutal, Chops*                      |
+| Warhammer    | 1d10       | 1 Strike (on a 10), 2 on crit | *Two-Handed, Blunt, Armor-Piercing* |
+| Spear        | 1d6        | 1 Strike (on a 6), 2 on crit | *Reach, Thrown*                      |
+| Bow          | 1d6        | 1 Strike (on a 6), 2 on crit | *Ranged, Two-Handed*                 |
+| Crossbow     | 1d8        | 1 Strike (on an 8), 2 on crit | *Ranged, Reload, Armor-Piercing*     |
+| Sling        | 1d4        | 1 Strike (on a 4), 2 on crit | *Ranged, Blunt, Concealable*         |
+
+---
+
+### Strike Potential Explained
+
+- A weapon only deals a **Strike** if it rolls the **maximum value** on its damage die.  
+- If the attack is a **critical hit**, it deals **2 Strikes** instead of 1 on a max roll.  
+- All other results are considered minor damage or *narrative-only injuries* (grazes, knocks, etc.).
+
+---
+
+### Tag Definitions
+
+- **Light** — Can be dual-wielded or used for quick attacks.  
+- **Finesse** — May use AGILITY instead of MIGHT for attack rolls.  
+- **Two-Handed** — Requires both hands to use effectively.  
+- **Heavy** — May require 2 MIGHT or more to wield without penalty.  
+- **Blunt** — Better against skeletons or unarmored targets.  
+- **Armor-Piercing** — Ignores 1 step of Damage Reduction.  
+- **Reach** — Can strike from a distance (e.g., second row).  
+- **Thrown** — Can be used as a ranged weapon once per round.  
+- **Reload** — Must spend a turn to reload after each shot.  
+- **Versatile** — Can be used one- or two-handed (GM’s call).  
+- **Concealable** — Easy to hide on your person.  
+- **Brutal** — Can trigger lingering wounds on a max damage roll.  
+- **Chops** — Useful for breaking objects or dismemberment.  
+- **Crude** — Common, often improvised or makeshift.
 
 
