@@ -11,7 +11,8 @@
 <!-- TOC link--><a name="credits"></a>
 ### Credits
 
-**Written by:** Victor Gregory Matos  
+**Written by:** Victor Gregory Matos
+
 **Logo by:** Drawsyourstuff
 
 The full text is licensed under the [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
