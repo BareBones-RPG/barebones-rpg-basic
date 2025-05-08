@@ -71,7 +71,7 @@ This game is designed to support any genre or tone, whether you're running sword
 **Example:**  
 If the Referee rolls a 1, 2, and 2, the total is 5. The player then has 5 points to assign across their four attributes however they choose, within the limits of character creation.
 
-After assigning attributes, the player and Referee discuss the setting and choose an archetype that aligns with the character’s concept and the tone of the campaign.
+After assigning attributes, the player and Referee discuss the setting and choose an archetype that aligns with the character’s concept and the campaign's tone.
 
 ---
 
@@ -312,7 +312,7 @@ A playable character in BareBones RPG is equipped with armor and weapons—essen
 
 <!--TOC link--><a name="armor-list">
 ### Armor List
-*BareBones RPG Basic* armor goes as follows:
+*BareBones RPG Basic* features a streamlined armor system:
 
 | Armor Type     | Damage Reduction | Examples                  | Notes / Cost |
 |----------------|------------------|----------------------------|--------------|
@@ -324,9 +324,12 @@ A playable character in BareBones RPG is equipped with armor and weapons—essen
 In combat, critical attacks and fumbles can alter the flow of battle significantly:
 A **critical attack** reduces the target’s armor efficiency. The Referee will rule that the armor’s damage reduction die is reduced by one step (e.g., from -d6 to -d4) for the duration of the encounter or until repaired.
 
-If a player rolls a fumble (typically a 6 on their Defense roll), the enemy rolls double damage. In addition, the target's armor reduction is weakened, decreasing its effectiveness by one die step.
-Example: A character wearing chainmail (normally -d4 damage reduction) suffers a fumbled defense. The enemy rolls double damage, and the armor now reduces damage by only -d2 until repaired.
+The enemy rolls double damage if a player rolls a fumble (typically a 6 on their Defense roll). In addition, the target's armor reduction is weakened, decreasing its effectiveness by one die step.
+
+> **Example:** A character wearing chainmail (normally -d4 damage reduction) suffers a fumbled defense. The enemy rolls double damage, and the armor reduces damage reduction by only -d2 until repaired.
 
 ---
+
+
 
 
