@@ -239,7 +239,7 @@ Below is an example of a completed character sheet using the **heroic tone** (8 
 - Dagger (1d4 damage)  
 - Leather Armor (reduces incoming damage by -d2)  
 - Thieves’ Tools  
-- Worn hooded cloak  
+- Worn a hooded cloak  
 
 ---
 
@@ -307,3 +307,26 @@ A playable character in BareBones RPG is equipped with armor and weapons—essen
 > Referee: "That’s a Strike! You catch the goblin right in the collarbone—it lets out a shriek and stumbles back, blood pouring from the wound. It drops."
 > 
 > Player: "I press forward, shield up!"
+
+---
+
+<!--TOC link--><a name="armor-list">
+### Armor List
+*BareBones RPG Basic* armor goes as follows:
+
+| Armor Type     | Damage Reduction | Examples                  | Notes / Cost |
+|----------------|------------------|----------------------------|--------------|
+| None           | —                | *Clothes, rags, robes*     | —            |
+| Light Armor    | -d2              | *Leather armor*            | —            |
+| Medium Armor   | -d4              | *Chainmail*                | —            |
+| Heavy Armor    | -d6              | *Plate armor*              | —            |
+
+In combat, critical attacks and fumbles can alter the flow of battle significantly:
+A **critical attack** reduces the target’s armor efficiency. The Referee will rule that the armor’s damage reduction die is reduced by one step (e.g., from -d6 to -d4) for the duration of the encounter or until repaired.
+
+If a player rolls a fumble (typically a 6 on their Defense roll), the enemy rolls double damage. In addition, the target's armor reduction is weakened, decreasing its effectiveness by one die step.
+Example: A character wearing chainmail (normally -d4 damage reduction) suffers a fumbled defense. The enemy rolls double damage, and the armor now reduces damage by only -d2 until repaired.
+
+---
+
+
