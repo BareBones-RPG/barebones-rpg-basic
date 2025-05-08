@@ -32,6 +32,11 @@ The full text is licensed under the [Creative Commons Attribution 4.0](https://c
 - [Understanding Strikes](#understanding-strikes)
 - [Character Sheet Example](#barebones-rpg-character-sheet)
 - [Armor & Weapons](#armor-weapons)
+- [Damage](#damage)
+- [Combat](#combat)
+- [Armor List](#armor-list)
+- [Weapon List](#weapon-list)
+- [How Strikes Damage Works?](#how-strikes-damage-works)
 
 ---
 
@@ -72,7 +77,7 @@ This game is designed to support any genre or tone, whether you're running sword
 **Example:**  
 If the Referee rolls a 1, 2, and 2, the total is 5. The player then has 5 points to assign across their four attributes however they choose, within the limits of character creation.
 
-After assigning attributes, the player and Referee discuss the setting and choose an archetype that aligns with the character’s concept and the tone of the campaign.
+After assigning attributes, the player and Referee discuss the setting and choose an archetype that aligns with the character’s concept and the campaign's tone.
 
 ---
 
@@ -240,7 +245,7 @@ Below is an example of a completed character sheet using the **heroic tone** (8 
 - Dagger (1d4 damage)  
 - Leather Armor (reduces incoming damage by -d2)  
 - Thieves’ Tools  
-- Worn hooded cloak  
+- Worn a hooded cloak  
 
 ---
 
@@ -251,7 +256,135 @@ This character is built for agility-based actions—sneaking, disabling traps, d
 <!--TOC link--><a name="armor-weapons"></a>
 ### Armor & Weapons
 
-A playable character in BareBones RPG will have armor and weapons.
+A playable character in BareBones RPG is equipped with armor and weapons—essential gear for those who undertake dangerous tasks like dungeon delving and battling chaotic or evil foes. Armor helps absorb damage, while weapons are used to inflict it. However, a Strike is only dealt when the attacker rolls the maximum value on their weapon’s damage die, whether targeting players or enemies. Non-max rolls may still cause narrative wounds or half Strikes, which the Referee can use to reflect grazes, glancing blows, or minor injuries depending on the tone of the game.
+
+<!--TOC link--><a name="damage"></a>
+#### Damage
+
+|Term|Effect|
+|---|---|
+|Strike|Caused only when the maximum value is rolled on a weapons' die.|
+|Half Strike| Narrative effect for minor wounds, may accumulate into a full strike.|
+|Armor| Reduces incoming damage. If damage is fully absorbed, no Strike marking occurs.|
+|Uarmored|Takes full damage; more likely to suffer strikes if max damage is rolled.| 
+
+<!--TOC link--><a name="combat"></a>
+### COMBAT
+
+> **COMBAT Phase 1:** 
+> 1. The Referee asks players to declare their actions for the round.
+> 2. Roll for group initiative: Referee vs. players. Whoever rolls highest acts first.
+> 3. The winning side resolves actions in this order:
+>   1. Movement
+>   2. Ranged or missile attacks
+>   3. Spell casting
+>   4. Melee attacks
+> 4. The opposing side then resolves their actions in the same order.
+
+**Example Combat:**
+
+> Referee: "You are surprised! The goblins react immediately to your forced entry into the chamber. They're armed and staring down the intruder. Fighter—you were trained for this! Make an AGILITY (Defense) roll."
+> 
+> Player: "I will! These rag-sacks won't stop me!" (The player has a 2/6 AGILITY)
+> 
+> The player rolls a 5 on their Defense roll. The goblin hits.
+> 
+> Referee: Rolls a d4 for the goblin's damage—gets a 4.
+> 
+> Referee: "The goblin releases an arrow from its poorly made bow. Fighter—roll your armor reduction!"
+> 
+> Player: "Yes! Maybe it won’t hit as hard." (The fighter rolls 1d2 for leather armor and gets a 2.)
+> 
+> Player: "I got a two!"
+> 
+> Referee: "It's just a scratch for now—no Strike taken. Let’s roll for initiative!"
+
+**To-Hit:**
+> Referee: "The goblin snarls and steps back, drawing a jagged dagger. You're up, Fighter—what do you do?"
+> 
+> Player: "I charge and swing my axe right at its neck!" (The Fighter has a MIGHT of 3.)
+> 
+> Referee: "Alright, roll your MIGHT. You’ll need a 3 or lower to hit."
+> 
+> The player rolls a 2 — a hit!
+> 
+> Player: "Yes! Solid hit—now for damage." (The axe deals 1d6. Player rolls a 6 — maximum damage.)
+> 
+> Referee: "That’s a Strike! You catch the goblin right in the collarbone—it lets out a shriek and stumbles back, blood pouring from the wound. It drops."
+> 
+> Player: "I press forward, shield up!"
+
+---
+
+<!--TOC link--><a name="armor-list"></a>
+### Armor List
+*BareBones RPG Basic* features a streamlined armor system:
+
+| Armor Type     | Damage Reduction | Examples                  | Notes / Cost |
+|----------------|------------------|----------------------------|--------------|
+| None           | —                | *Clothes, rags, robes*     | —            |
+| Light Armor    | -d2              | *Leather armor*            | —            |
+| Medium Armor   | -d4              | *Chainmail*                | —            |
+| Heavy Armor    | -d6              | *Plate armor*              | —            |
+
+In combat, critical attacks and fumbles can alter the flow of battle significantly:
+A **critical attack** reduces the target’s armor efficiency. The Referee will rule that the armor’s damage reduction die is reduced by one step (e.g., from -d6 to -d4) for the duration of the encounter or until repaired.
+
+The enemy rolls double damage if a player rolls a fumble (typically a 6 on their Defense roll). In addition, the target's armor reduction is weakened, decreasing its effectiveness by one die step.
+
+> **Example:** A character wearing chainmail (normally -d4 damage reduction) suffers a fumbled defense. The enemy rolls double damage, and the armor reduces damage reduction by only -d2 until repaired.
+
+---
+
+<!--TOC link---><a name="weapon-list"></a>
+### Weapon List
+
+| Weapon       | Damage Die | Strike Hits on Maximum Die   | Tags                                |
+|--------------|------------|------------------------------|--------------------------------------|
+| Dagger       | 1d4        | 1 Strike (on a 4), 2 on crit | *Light, Finesse, Concealable*        |
+| Short Sword  | 1d6        | 1 Strike (on a 6), 2 on crit | *Light, Finesse*                     |
+| Longsword    | 1d8        | 1 Strike (on an 8), 2 on crit | *Versatile, Melee*                   |
+| Greatsword   | 1d10       | 1 Strike (on a 10), 2 on crit | *Two-Handed, Heavy*                  |
+| Club         | 1d4        | 1 Strike (on a 4), 2 on crit | *Crude, Blunt*                       |
+| Mace         | 1d6        | 1 Strike (on a 6), 2 on crit | *Blunt, Armor-Piercing*              |
+| Axe          | 1d8        | 1 Strike (on an 8), 2 on crit | *Brutal, Chops*                      |
+| Warhammer    | 1d10       | 1 Strike (on a 10), 2 on crit | *Two-Handed, Blunt, Armor-Piercing* |
+| Spear        | 1d6        | 1 Strike (on a 6), 2 on crit | *Reach, Thrown*                      |
+| Bow          | 1d6        | 1 Strike (on a 6), 2 on crit | *Ranged, Two-Handed*                 |
+| Crossbow     | 1d8        | 1 Strike (on an 8), 2 on crit | *Ranged, Reload, Armor-Piercing*     |
+| Sling        | 1d4        | 1 Strike (on a 4), 2 on crit | *Ranged, Blunt, Concealable*         |
+
+---
+
+<!--TOC link---><a name="how-strikes-damage-works"></a>
+### How Strike Damage Works
+
+- A weapon only deals a **Strike** if it rolls the **maximum value** on its damage die.  
+- If the attack is a **critical hit**, it deals **2 Strikes** instead of 1 on a max roll.  
+- All other results are considered minor damage or *narrative-only injuries* (grazes, knocks, etc.).
+
+---
+
+### Tag Definitions
+
+- **Light** — Can be dual-wielded or used for quick attacks.  
+- **Finesse** — May use AGILITY instead of MIGHT for attack rolls.  
+- **Two-Handed** — Requires both hands to use effectively.  
+- **Heavy** — May require 2 MIGHT or more to wield without penalty.  
+- **Blunt** — Better against skeletons or unarmored targets.  
+- **Armor-Piercing** — Ignores 1 step of Damage Reduction.  
+- **Reach** — Can strike from a distance (e.g., second row).  
+- **Thrown** — Can be used as a ranged weapon once per round.  
+- **Reload** — Must spend a turn to reload after each shot.  
+- **Versatile** — Can be used one- or two-handed (GM’s call).  
+- **Concealable** — Easy to hide on your person.  
+- **Brutal** — Can trigger lingering wounds on a max damage roll.  
+- **Chops** — Useful for breaking objects or dismemberment.  
+- **Crude** — Common, often improvised or makeshift.
+
+---
+
+
 
 
 
