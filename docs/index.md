@@ -1,5 +1,3 @@
-# BareBones RPG Basci Edition
-
 ## Index.md
 
 <!-- TOC link--><a name="barebones-basic-edition"></a>
