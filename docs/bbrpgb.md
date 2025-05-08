@@ -350,7 +350,7 @@ The enemy rolls double damage if a player rolls a fumble (typically a 6 on their
 
 ---
 
-### Strike Potential Explained
+### Strike Damage
 
 - A weapon only deals a **Strike** if it rolls the **maximum value** on its damage die.  
 - If the attack is a **critical hit**, it deals **2 Strikes** instead of 1 on a max roll.  
