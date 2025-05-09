@@ -36,18 +36,30 @@
 <!--- Monster Example --->
 ![](imgAddressHere)
 
-# Goblin
+### Goblin
 - **Strikes:** [ ]  
 - **Armor:** None  
 - **Attack:** Weapon of choice (1d6 or by weapon)  
 - **Save:** 5-in-6 vs spells *(based on Petrification save ÷ 3)*  
 - **Other Rolls (sneak, hide, etc.):** 3-in-6 chance  *(Increase to 4-in-6 if the player fails an INS test to detect them.)*
 
-
 <!--- Monster Example #2 --->
+![](ImgADDHere)
+
+### Orc
+- **Strikes:** [ ]  
+- **Armor:** -d2 *(light armor)*  
+- **ATT:** Weapon of choice (1d6)  
+- **SAV:** 4-in-6 vs spells  
+- **Savage Presence:** When an **Orc Leader** is present, all players must roll an **INS test**.  
+  On a failure, they suffer **-1 to all rolls** against Orcs for the duration of the encounter
+
+
+
+<!--- Monster Example #3 --->
 ![](imgAddressHere)
 
-# Skeleton
+### Skeleton
 - **Strikes:** [ ]  
 - **Armor:** -d2 (vs. sharp weapons), None (vs. bludgeoning attacks)  
 - **ATT:** Rusty Sword (d4 damage)  
