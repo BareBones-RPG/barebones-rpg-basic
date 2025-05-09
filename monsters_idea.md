@@ -17,31 +17,44 @@
 
 
 <!-- Monster Template -->
+<!-- For Names use H3 -->
+### Name:
 
-# Name:
+<!-- After name, use an unordered list format -->
+<!-- Bold STR, ARM, ATT, & SAV -->
+
 - **Strikes:** [ ]  
-  *(Use format like (3 HP / 3) to track total Strikes. Each Strike = 1 HP.)*
+  *(Use format like "3 HP / 3" to track total Strikes. Each Strike = 1 HP.)*
 
-- **Armor:** None / -d2 / -d4 / -d6 / -d8  *Damage Reduction*
-  *(Roll to reduce incoming damage.)*
+- **Armor:** None / -d2 / -d4 / -d6 / -d8 *(Damage Reduction)*  
+  *(Roll this die to reduce incoming damage.)*
 
 - **Attack:** [Name of attack] (d4 / d6 / d8 / d10 / d12)  
-  *(Use the source's listed damage—no conversion needed.)*
+  *(Use the source’s listed damage—no conversion needed.)*
 
 - **Save:** For spells, use the creature’s **Petrification** save divided by 3 (round down).  
   *(Example: Petrification 12 → 4-in-6 Save)*
 
+<!-- If the monster has a special ability, add it as an unordered sublist -->
+- **Special:**  
+  - **[Ability Name]:** Brief mechanical description here.
+
+
 ---
 
-<!--- Monster Example --->
+<!--- Monster Example #1 --->
 ![](imgAddressHere)
 
 ### Goblin
 - **Strikes:** [ ]  
 - **Armor:** None  
-- **Attack:** Weapon of choice (1d6 or by weapon)  
-- **Save:** 5-in-6 vs spells *(based on Petrification save ÷ 3)*  
-- **Other Rolls (sneak, hide, etc.):** 3-in-6 chance  *(Increase to 4-in-6 if the player fails an INS test to detect them.)*
+- **Attack:** Weapon of choice (d6)  
+- **Save:** 5-in-6 vs spells *(Petrification 15 ÷ 3)*
+- **Special:**  
+  - **Sneaky Little Fiend:** Goblins have a 3-in-6 chance to hide, sneak, or ambush.  
+    Increase to 4-in-6 if the player fails an INS test.
+
+---
 
 <!--- Monster Example #2 --->
 ![](ImgADDHere)
@@ -49,22 +62,28 @@
 ### Orc
 - **Strikes:** [ ]  
 - **Armor:** -d2 *(light armor)*  
-- **ATT:** Weapon of choice (1d6)  
-- **SAV:** 4-in-6 vs spells  
-- **Savage Presence:** When an **Orc Leader** is present, all players must roll an **INS test**.  
-  On a failure, they suffer **-1 to all rolls** against Orcs for the duration of the encounter
+- **Attack:** Weapon of choice (d6)  
+- **Save:** 4-in-6 vs spells *(Petrification 13 ÷ 3)*
+- **Special:**  
+  - **Savage Presence:** When an Orc Leader is present, players must roll an INS test.  
+    On a failure, they suffer -1 to all rolls against Orcs for the duration of the encounter.
 
-
+---
 
 <!--- Monster Example #3 --->
 ![](imgAddressHere)
 
 ### Skeleton
 - **Strikes:** [ ]  
-- **Armor:** -d2 (vs. sharp weapons), None (vs. bludgeoning attacks)  
-- **ATT:** Rusty Sword (d4 damage)  
-- **SV:** 4-in-6 vs spells  
-- **Undead:** Silent until they strike. **Immune to all effects that target the living**—such as *poison, charm, hold, and sleep*. These effects automatically fail.
+- **Armor:** -d2 (vs. sharp weapons), None (vs. bludgeoning)  
+  *(Bones are resistant to cuts, but crack under force)*
+- **Attack:** Rusty Sword (d4)  
+- **Save:** 4-in-6 vs spells *(Petrification 12 ÷ 3)*
+- **Special:**  
+  - **Undead Nature:** Immune to poison, charm, hold, and sleep. These effects automatically fail.  
+  - **Silent Stalker:** Makes no noise until it attacks.
+
+---
 
 <!--- Alphabetical Order --->
 
