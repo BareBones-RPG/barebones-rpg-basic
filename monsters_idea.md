@@ -3,9 +3,22 @@
 
 <!--- Converting OSRs Monster to Barebones RPG--->
 
+This Monster Conversion Kit is designed for use with Old-School Essentials (OSE) or any other OSR-style resource. Follow these simple steps, and you'll be able to convert a monster quickly for use in BareBones RPG.
+
 <!--- Strikes Conversion--->
 - Strikes: Divide the creature’s total HP by 3, then **round down**. This determines how many Strikes the monster has.
   *(Example: A monster with 9 HP becomes 3 Strikes. One with 8 HP becomes 2 Strikes.)*
+  - If the result is 0, give it a 1 strike minimum.
+  - (example: a monster has 8 HP --> 2 Strikes)
+ 
+ <!--- Armor Conversion --->
+Use the creature’s **Armor Class (AC)** to determine its **Damage Reduction die**:
+- AC 12 or less --> None
+- AC 13 - 14 --> -d2
+- AC 15 - 16 --> -d4
+- AC 17 + --> -d6 or -d8 (Referee's call)
+- Some creatures may have different Damage Reduction values based on the weapon type (e.g., bludgeoning vs. piercing).
+This adds tactical depth and rewards creative thinking. Letting players discover the right tool for the job can dramatically shift combat in their favor—and feel great when it happens.
 
 <!--- Spell Saving Stat --->
 - Spell Saves: Use the monster’s **Petrification** saving throw, divided by 3 (round down), to determine its chance to resist spells.
