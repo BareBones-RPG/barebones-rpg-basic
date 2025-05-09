@@ -2,7 +2,6 @@
 # Making a Monster
 
 <!--- Converting OSRs Monster to Barebones RPG--->
-
 This Monster Conversion Kit is designed for use with Old-School Essentials (OSE) or any other OSR-style resource. Follow these simple steps, and you'll be able to convert a monster quickly for use in BareBones RPG.
 
 <!--- Strikes Conversion--->
@@ -17,6 +16,7 @@ Use the creature’s **Armor Class (AC)** to determine its **Damage Reduction di
 - AC 13 - 14 --> -d2
 - AC 15 - 16 --> -d4
 - AC 17 + --> -d6 or -d8 (Referee's call)
+  
 - Some creatures may have different Damage Reduction values based on the weapon type (e.g., bludgeoning vs. piercing).
 This adds tactical depth and rewards creative thinking. Letting players discover the right tool for the job can dramatically shift combat in their favor—and feel great when it happens.
 
@@ -26,8 +26,6 @@ This adds tactical depth and rewards creative thinking. Letting players discover
 
 <!--- 6-in-6 Cap --->
 - 6-in-6 Cap: If the calculation results in a 6-in-6 save, reduce it to 5-in-6 for balance. Consider giving the monster an extra Strike to reflect its resilience instead.
-
-
 
 <!-- Monster Template -->
 <!-- For Names use H3 -->
@@ -101,6 +99,5 @@ This adds tactical depth and rewards creative thinking. Letting players discover
 <!--- Alphabetical Order --->
 
 <!--- TOC for Monsters --->
-
 ## Table of Contents
 
