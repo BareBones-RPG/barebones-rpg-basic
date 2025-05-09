@@ -96,8 +96,3 @@ This adds tactical depth and rewards creative thinking. Letting players discover
 
 ---
 
-<!--- Alphabetical Order --->
-
-<!--- TOC for Monsters --->
-## Table of Contents
-
