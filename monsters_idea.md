@@ -19,7 +19,7 @@
 <!-- Monster Template -->
 
 # Name:
-- **Strikes:** [ ] [ ] [ ]  
+- **Strikes:** [ ]  
   *(Use format like (3 HP / 3) to track total Strikes. Each Strike = 1 HP.)*
 
 - **Armor:** None / -d2 / -d4 / -d6 / -d8  *Damage Reduction*
