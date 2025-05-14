@@ -310,7 +310,7 @@ Enemies follow similar rules:
 
 ---
 
-#### 💥 **4. Damage and Strikes**
+#### **4. Damage and Strikes**
 - Weapons roll a damage die (e.g., 1d4, 1d6, etc.).
 - A character takes a **Strike** only if the damage die rolls its **maximum value**.
 - Armor reduces damage by a die (e.g., -d2). If the max result is no longer reached after reduction, **no Strike is taken**.
