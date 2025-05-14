@@ -269,53 +269,76 @@ A playable character in BareBones RPG is equipped with armor and weapons—essen
 |Armor| Reduces incoming damage. If damage is fully absorbed, no Strike marking occurs.|
 |Uarmored|Takes full damage; more likely to suffer strikes if max damage is rolled.| 
 
-<!--TOC link--><a name="combat"></a>
-### COMBAT
+<!-- TOC link--><a name="combat-phase"></a>
+### Combat Phase
 
-> **COMBAT Phase 1:** 
-> 1. The Referee asks players to declare their actions for the round.
-> 2. Roll for group initiative: Referee vs. players. Whoever rolls highest acts first.
-> 3. The winning side resolves actions in this order:
->   1. Movement
->   2. Ranged or missile attacks
->   3. Spell casting
->   4. Melee attacks
-> 4. The opposing side then resolves their actions in the same order.
-
-**Example Combat:**
-
-> Referee: "You are surprised! The goblins react immediately to your forced entry into the chamber. They're armed and staring down the intruder. Fighter—you were trained for this! Make an AGILITY (Defense) roll."
-> 
-> Player: "I will! These rag-sacks won't stop me!" (The player has a 2/6 AGILITY)
-> 
-> The player rolls a 5 on their Defense roll. The goblin hits.
-> 
-> Referee: Rolls a d4 for the goblin's damage—gets a 4.
-> 
-> Referee: "The goblin releases an arrow from its poorly made bow. Fighter—roll your armor reduction!"
-> 
-> Player: "Yes! Maybe it won’t hit as hard." (The fighter rolls 1d2 for leather armor and gets a 2.)
-> 
-> Player: "I got a two!"
-> 
-> Referee: "It's just a scratch for now—no Strike taken. Let’s roll for initiative!"
-
-**To-Hit:**
-> Referee: "The goblin snarls and steps back, drawing a jagged dagger. You're up, Fighter—what do you do?"
-> 
-> Player: "I charge and swing my axe right at its neck!" (The Fighter has a MIGHT of 3.)
-> 
-> Referee: "Alright, roll your MIGHT. You’ll need a 3 or lower to hit."
-> 
-> The player rolls a 2 — a hit!
-> 
-> Player: "Yes! Solid hit—now for damage." (The axe deals 1d6. Player rolls a 6 — maximum damage.)
-> 
-> Referee: "That’s a Strike! You catch the goblin right in the collarbone—it lets out a shriek and stumbles back, blood pouring from the wound. It drops."
-> 
-> Player: "I press forward, shield up!"
+Combat in *BareBones RPG* is fast, deadly, and narrative-driven. Every weapon, step, and breath matters. Here's how it flows:
 
 ---
+
+#### **1. Roll Initiative (Every Round)**
+- At the **start of each combat round**, every participant rolls **1d6** for initiative.
+- Highest result acts first.
+- On ties, **players act before enemies**.
+- **Initiative is re-rolled at the top of every round**, not just once per encounter. This keeps action unpredictable and dynamic.
+
+---
+
+#### **2. Player Turn**
+On their turn, a player may:
+- **Attack** (roll a MIGHT test for melee or INSIGHT for ranged)
+- **Move** (engage, flee, or reposition)
+- **Use Gear or Abilities**
+- **Perform a Creative Action** (e.g., disarm, trip, shove, bluff)
+
+**To attack:**  
+Roll 1d6. If equal to or under the relevant attribute, the attack hits.  
+Then roll damage.
+
+---
+
+#### **3. Enemy Turn**
+Enemies follow similar rules:
+- They act in initiative order.
+- **Players always roll to defend** using AGILITY (not the enemy rolling to hit).
+- The Referee describes intent; the player rolls to dodge, parry, or avoid.
+
+**Defense Roll:**  
+- Roll 1d6.
+- If the result is **equal to or under your AGILITY**, you dodge the attack.
+- If you fail, the enemy rolls damage.
+
+---
+
+#### 💥 **4. Damage and Strikes**
+- Weapons roll a damage die (e.g., 1d4, 1d6, etc.).
+- A character takes a **Strike** only if the damage die rolls its **maximum value**.
+- Armor reduces damage by a die (e.g., -d2). If the max result is no longer reached after reduction, **no Strike is taken**.
+
+**Example:**  
+A dagger (1d4) rolls a 4 → potential Strike.  
+If leather armor (-d2) reduces it to 2, no Strike occurs.
+
+---
+
+#### Optional: Half Strikes
+Referees may apply **Half Strikes** narratively for near misses, grazing hits, or ongoing effects. These can:
+- Accumulate into a full Strike, or
+- Be ignored for fast-paced play
+
+---
+
+#### Repeat Rounds
+After all participants act, **roll initiative again** and start a new round.
+
+Combat ends when:
+- All enemies are defeated,
+- The party flees,
+- Or the narrative changes the stakes.
+
+---
+
+
 
 <!--TOC link--><a name="armor-list"></a>
 ### Armor List
