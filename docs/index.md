@@ -397,18 +397,18 @@ The enemy rolls double damage if a player rolls a fumble (typically a 6 on their
 
 | Weapon       | Damage Die | Strike Hits on Maximum Die   | Tags                                |
 |--------------|------------|------------------------------|--------------------------------------|
-| Dagger       | 1d4        | 1 Strike (on a 4), 2 on crit | *Light, Finesse, Concealable*        |
-| Short Sword  | 1d6        | 1 Strike (on a 6), 2 on crit | *Light, Finesse*                     |
-| Longsword    | 1d8        | 1 Strike (on an 8), 2 on crit | *Versatile, Melee*                   |
-| Greatsword   | 1d10       | 1 Strike (on a 10), 2 on crit | *Two-Handed, Heavy*                  |
-| Club         | 1d4        | 1 Strike (on a 4), 2 on crit | *Crude, Blunt*                       |
-| Mace         | 1d6        | 1 Strike (on a 6), 2 on crit | *Blunt, Armor-Piercing*              |
-| Axe          | 1d8        | 1 Strike (on an 8), 2 on crit | *Brutal, Chops*                      |
-| Warhammer    | 1d10       | 1 Strike (on a 10), 2 on crit | *Two-Handed, Blunt, Armor-Piercing* |
-| Spear        | 1d6        | 1 Strike (on a 6), 2 on crit | *Reach, Thrown*                      |
-| Bow          | 1d6        | 1 Strike (on a 6), 2 on crit | *Ranged, Two-Handed*                 |
-| Crossbow     | 1d8        | 1 Strike (on an 8), 2 on crit | *Ranged, Reload, Armor-Piercing*     |
-| Sling        | 1d4        | 1 Strike (on a 4), 2 on crit | *Ranged, Blunt, Concealable*         |
+| Dagger       | 1d4        | 1 Strike (on a 4), 2 strikes on crit | *Light, Finesse, Concealable*        |
+| Short Sword  | 1d6        | 1 Strike (on a 6), 2 strikes on crit | *Light, Finesse*                     |
+| Longsword    | 1d8        | 1 Strike (on an 8), 2 strikes on crit | *Versatile, Melee*                   |
+| Greatsword   | 1d10       | 1 Strike (on a 10), 2 strikes on crit | *Two-Handed, Heavy*                  |
+| Club         | 1d4        | 1 Strike (on a 4), 2 strikes on crit | *Crude, Blunt*                       |
+| Mace         | 1d6        | 1 Strike (on a 6), 2 strikes on crit | *Blunt, Armor-Piercing*              |
+| Axe          | 1d8        | 1 Strike (on an 8), 2 strikes on crit | *Brutal, Chops*                      |
+| Warhammer    | 1d10       | 1 Strike (on a 10), 3 strikes on crit | *Two-Handed, Blunt, Armor-Piercing* |
+| Spear        | 1d6        | 1 Strike (on a 6), 2 strikes on crit | *Reach, Thrown*                      |
+| Bow          | 1d6        | 1 Strike (on a 6), 2 strikes on crit | *Ranged, Two-Handed*                 |
+| Crossbow     | 1d8        | 1 Strike (on an 8), 2 strikes on crit | *Ranged, Reload, Armor-Piercing*     |
+| Sling        | 1d4        | 1 Strike (on a 4), 2 strikes on crit | *Ranged, Blunt, Concealable*         |
 
 ---
 
