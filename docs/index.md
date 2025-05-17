@@ -186,9 +186,6 @@ When players work together—or work against each other—their actions can infl
 - A character’s chances can be reduced no lower than **1-in-6**.  
 - Hindrances must be narratively justified (e.g., interference, bad footing, mental distraction).
 
-> **Referee Note:** A roll of **6 always fails**, and **1 always succeeds** (unless modified by critical or fumble rules).  
-> The valid chance range remains **1 to 5-in-6**.
-
 ---
 
 <!-- TOC link--><a name="archetypes"></a>
