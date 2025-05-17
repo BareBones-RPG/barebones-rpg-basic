@@ -64,9 +64,11 @@ body {
   margin-bottom: 1rem;
 }
 
-img {
-  max-width: 100%;
+.main-content img {
+  max-width: 500px; /* Restrict logo size */
+  width: 100%;
   height: auto;
   display: block;
-  margin: 6rem auto;
+  margin: 2rem auto; /* This centers it horizontally */
 }
+
