@@ -125,7 +125,7 @@ Luck can be used in the following ways:
 > Once spent, Luck is gone until it’s regained.  
 > Players can regain Luck by rolling a **6** during any test, at the Referee’s discretion, or through bold and cinematic roleplay moments.
 
-  
+---
 
 <!-- TOC link--><a name="game-of-chances"></a>
 ### GAME OF CHANCES
