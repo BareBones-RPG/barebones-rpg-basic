@@ -10,6 +10,9 @@ body {
 }
 
 .sidebar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   width: 250px;
   background-color: black;
   color: white;
@@ -21,31 +24,35 @@ body {
   overflow-y: auto;
 }
 
-.sidebar h1 {
-  font-family: 'Courier New', monospace;
-  font-size: 1.8rem;
-  margin-bottom: 2rem;
-  text-align: center;
-}
-
 .sidebar ul {
   list-style: none;
   padding: 0;
   margin: 0;
+  flex-grow: 1;
 }
 
-.sidebar ul li {
-  margin: 1rem 0;
-}
-
-.sidebar ul li a {
-  text-decoration: none;
+.sidebar footer {
+  font-size: 0.7rem;
   color: white;
-  font-weight: bold;
+  text-align: left;
+  margin-top: 2rem;
+  line-height: 1.4;
 }
 
-.sidebar ul li a:hover {
+.sidebar footer a {
+  color: white;
   text-decoration: underline;
+}
+
+.sidebar footer a:hover {
+  color: #ccc;
+}
+
+.sidebar footer img {
+  vertical-align: middle;
+  max-width: 1em;
+  max-height: 1em;
+  margin-left: 0.2em;
 }
 
 .main-content {
@@ -100,4 +107,6 @@ footer img {
   max-width: 1em;
   max-height: 1em;
   margin-left: 0.2em;
+
+  
 }
