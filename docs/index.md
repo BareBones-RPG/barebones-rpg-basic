@@ -27,6 +27,7 @@ The full text is licensed under the [Creative Commons Attribution 4.0](https://c
 - [Character Creation](#character-creation)
 - [Learning the Attributes](#learning-the-attributes)
 - [Game of Chances](#game-of-chances)
+- [Help and Hinder](#help-and-hinder)
 - [Gameplay Example](#game-play-example)
 - [Archetypes](#archetypes)
 - [Kin](#kin)
@@ -91,10 +92,13 @@ After assigning attributes, the player and Referee discuss the setting and choos
 **Insight** — *Perceive, aim, charm, recall knowledge*  
 **Might** — *Crush, lift, strike, grapple*  
 **Willpower** — *Resist fear, use relics or magic weapons, cast spells, perform rituals*
+**Luck** — *When fate fails you, Luck is your edge. Roll a 6? Gain 1 Luck. Spend 1 to re-roll, ignore a critical fail, or succeed if you just missed.*
 
-Each attribute must have a score between **1 and 5**.  
+Each attribute must have a score between **1 and 5**.
+No attribute can begin at **0, and no score may exceed 5**—even if the player has points remaining.
+Any extra points can be discarded or saved at the Referee’s discretion.
 
-No attribute can begin at **0**, and **no score may exceed 5**—even if the player has points remaining. Any extra points can be discarded or saved at the Referee’s discretion.
+**Luck is the only attribute that can exceed 5**, depending on how much the Referee chooses to award during play. It represents fate’s favor and can be gained or spent to influence rolls.
 
 ---
 
@@ -111,6 +115,29 @@ To resolve an action:
 Simple, fast, and cinematic.
 
 ---
+
+<!-- TOC link--><a name="help-and-hinder"></a>
+### HELP & HINDER
+
+When players work together—or work against each other—their actions can influence the number of chances a character has to succeed.
+
+#### Helping Another Character
+
+- A player may **assist** another character if it makes sense in the fiction.  
+- Each helper increases the acting character’s chance by **+1**, up to a **maximum of +2 chances** (from two helpers).  
+- **No character may exceed 5-in-6 chances**, even with help.  
+  - *Example:* A character with a 4-in-6 chance can only benefit from **+1 help** to reach 5-in-6. A second helper has no effect.  
+- Players must describe how they are helping for it to apply.
+
+#### Hindering Another Character
+
+- A character or condition may **hinder** another’s action.  
+- Each hindrance reduces the target’s chance by **-1**, with a **maximum penalty of -2 chances**.  
+- A character’s chances can be reduced no lower than **1-in-6**.  
+- Hindrances must be narratively justified (e.g., interference, bad footing, mental distraction).
+
+> **Referee Note:** A roll of **6 always fails**, and **1 always succeeds** (unless modified by critical or fumble rules).  
+> The valid chance range remains **1 to 5-in-6**.
 
 <!-- TOC link--><a name="game-play-example"></a>
 ### GAMEPLAY EXAMPLE
