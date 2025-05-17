@@ -9,7 +9,8 @@
 <!-- TOC link--><a name="credits"></a>
 ### Credits
 
-**Written by:** Victor Gregory Matos  
+**Written by:** Victor Gregory Matos
+
 **Logo by:** Drawsyourstuff
 
 The full text is licensed under the [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -25,6 +26,8 @@ The full text is licensed under the [Creative Commons Attribution 4.0](https://c
 - [Learning the Attributes](#learning-the-attributes)
 - [Game of Chances](#game-of-chances)
 - [Gameplay Example](#game-play-example)
+- [Help and Hinder](#help-and-hinder)
+- [Luck](#luck)
 - [Archetypes](#archetypes)
 - [Kin](#kin)
 - [Understanding Strikes](#understanding-strikes)
@@ -70,10 +73,10 @@ This game is designed to support any genre or tone, whether you're running sword
 
 > The **Game Master or Referee** can help players generate their stats by rolling 3d3. The total becomes a pool of points the player can freely distribute among their attributes.
 
-**Optional Rule:** Instead of rolling, the Referee may assign a flat number of points—**6 for gritty games** and **8 for heroic campaigns**.
+**Optional Rule:** Instead of rolling, the Referee may assign a flat number of points—**8 for gritty games** and **10 for heroic campaigns**.
 
 **Example:**  
-If the Referee rolls a 1, 2, and 2, the total is 5. The player then has 5 points to assign across their four attributes however they choose, within the limits of character creation.
+If the Referee rolls a 1, 2, 2, and 3  the total is 8. The player then has 8 points to assign across their five attributes however they choose, within the limits of character creation.
 
 After assigning attributes, the player and Referee discuss the setting and choose an archetype that aligns with the character’s concept and the campaign's tone.
 
@@ -85,15 +88,42 @@ After assigning attributes, the player and Referee discuss the setting and choos
 *BareBones RPG* uses four core attributes to define characters:
 
 **Agility** — *Defend, balance, swim, flee*  
+
 **Insight** — *Perceive, aim, charm, recall knowledge*  
+
 **Might** — *Crush, lift, strike, grapple*  
+
 **Willpower** — *Resist fear, use relics or magic weapons, cast spells, perform rituals*
 
-Each attribute must have a score between **1 and 5**.  
+**Luck** — *When fate fails you, Luck is your edge. Roll a 6? Gain 1 Luck. Spend 1 to re-roll, ignore a critical fail, or do an automatic strike.*
 
-No attribute can begin at **0**, and **no score may exceed 5**—even if the player has points remaining. Any extra points can be discarded or saved at the Referee’s discretion.
+Each attribute must have a score between **1 and 5**.
+No attribute can begin at **0, and no score may exceed 5**—even if the player has points remaining.
+Any extra points can be discarded or saved at the Referee’s discretion.
+
+**Luck is the only attribute that can exceed 5**, depending on how much the Referee chooses to award during play. It represents fate’s favor and can be gained or spent to influence rolls.
 
 ---
+
+<!-- TOC link--><a name="luck"></a>
+### Using Luck
+
+**Luck** is an attribute that players can **burn before or after a roll**.  
+Players decide how many points to assign to this attribute during character creation.
+
+Luck represents a character's ability to twist fate in their favor—rewinding outcomes, bending odds, or pulling off unlikely feats.
+
+Luck can be used in the following ways:
+
+- **Gain a +2 bonus to a test** (*before rolling*). This increases your chance of success, but not beyond 5-in-6.
+- **Neutralize a fumble** (*after rolling a 6*), turning it into a normal failure.
+- **Automatically deal a Strike** when your attack hits—no need to roll for damage.
+- **Act first in initiative** for the round, regardless of the roll.
+
+> Once spent, Luck is gone until it’s regained.  
+> Players can regain Luck by rolling a **6** during any test, at the Referee’s discretion, or through bold and cinematic roleplay moments.
+
+  
 
 <!-- TOC link--><a name="game-of-chances"></a>
 ### GAME OF CHANCES
@@ -108,7 +138,6 @@ To resolve an action:
 Simple, fast, and cinematic.
 
 ---
-
 <!-- TOC link--><a name="game-play-example"></a>
 ### GAMEPLAY EXAMPLE
 
@@ -135,6 +164,28 @@ Simple, fast, and cinematic.
 
 ---
 
+<!-- TOC link--><a name="help-and-hinder"></a>
+### HELP & HINDER
+
+When players work together—or work against each other—their actions can influence the number of chances a character has to succeed.
+
+#### Helping Another Character
+
+- A player may **assist** another character if it makes sense in the fiction.  
+- Each helper increases the acting character’s chance by **+1**, up to a **maximum of +2 chances** (from two helpers).  
+- **No character may exceed 5-in-6 chances**, even with help.  
+  - *Example:* A character with a 4-in-6 chance can only benefit from **+1 help** to reach 5-in-6. A second helper has no effect.  
+- Players must describe how they are helping for it to apply.
+
+#### Hindering Another Character
+
+- A character or condition may **hinder** another’s action.  
+- Each hindrance reduces the target’s chance by **-1**, with a **maximum penalty of -2 chances**.  
+- A character’s chances can be reduced no lower than **1-in-6**.  
+- Hindrances must be narratively justified (e.g., interference, bad footing, mental distraction).
+
+---
+
 <!-- TOC link--><a name="archetypes"></a>
 ### ARCHETYPES
 
@@ -158,35 +209,48 @@ Choose your archetype based on the tone of the game and the character's concept.
 
 In *BareBones RPG*, a character’s **Kin** represents their ancestry or species. Each Kin provides a small mechanical bonus and one flavorful ability that reflects their heritage. Players choose one during character creation.
 
+---
+
 **Halfling**  
 *Small, nimble, and unusually lucky.*  
-**Bonus:** +1 Agility  
+**Bonus:** +1 Agility, **+2 Luck**  
 **Ability:** Once per session, ignore a single failed roll as if it had succeeded.
+
+---
 
 **Human**  
 *Versatile and adaptable.*  
-**Bonus:** +1 to Agility, Insight, Might, or Willpower (player's choice)  
+**Bonus:** +1 to Agility, Insight, Might, or Willpower (player's choice), **+1 Luck**  
 **Ability:** Once per session, justify using a different attribute for a roll. The Referee must agree it makes narrative sense.
+
+---
 
 **Dwarf**  
 *Stubborn, durable, and skilled with stone and steel.*  
-**Bonus:** +1 Might  
+**Bonus:** +1 Might, **+1 Luck**  
 **Ability:** Once per session, re-roll a failed Might test against poison.
+
+---
 
 **Elf**  
 *Graceful and insightful, attuned to magic and nature.*  
-**Bonus:** +1 Agility or +1 Insight  
+**Bonus:** +1 Agility or +1 Insight, **+1 Luck**  
 **Ability:** Once per session, re-roll a failed Insight test related to recalling ancient knowledge or history.
+
+---
 
 **Goblin**  
 *Clever, crafty, and chaotic.*  
-**Bonus:** +1 Agility  
+**Bonus:** +1 Agility, **+1 Luck**  
 **Ability:** Once per session, re-roll a failed trap-related test.
+
+---
 
 **Half-Orc**  
 *Strong, imposing, and fearless.*  
-**Bonus:** +1 Might  
+**Bonus:** +1 Might, **+1 Luck**  
 **Ability:** Once per session, re-roll a failed Insight test used to intimidate.
+
 
 ---
 
@@ -208,7 +272,7 @@ This system encourages fast-paced, cinematic storytelling over number-crunching.
 <!-- TOC link--><a name="barebones-rpg-character-sheet"></a>
 ### CHARACTER SHEET EXAMPLE
 
-Below is an example of a completed character sheet using the **heroic tone** (8 points distributed among attributes):
+Below is an example of a completed character sheet using the **heroic tone** (10 points distributed among attributes):
 
 ---
 
@@ -232,7 +296,8 @@ Below is an example of a completed character sheet using the **heroic tone** (8 
 - **Agility:** 3  
 - **Insight:** 2  
 - **Might:** 2  
-- **Willpower:** 1 (+1 from Kin bonus)  
+- **Willpower:** 1 (+1 from Kin bonus)
+-  **Luck**: 2 
 
 (*Final Willpower score is 2*)
 
@@ -266,53 +331,76 @@ A playable character in BareBones RPG is equipped with armor and weapons—essen
 |Armor| Reduces incoming damage. If damage is fully absorbed, no Strike marking occurs.|
 |Uarmored|Takes full damage; more likely to suffer strikes if max damage is rolled.| 
 
-<!--TOC link--><a name="combat"></a>
-### COMBAT
+<!-- TOC link--><a name="combat-phase"></a>
+### Combat Phase
 
-> **COMBAT Phase 1:** 
-> 1. The Referee asks players to declare their actions for the round.
-> 2. Roll for group initiative: Referee vs. players. Whoever rolls highest acts first.
-> 3. The winning side resolves actions in this order:
->   1. Movement
->   2. Ranged or missile attacks
->   3. Spell casting
->   4. Melee attacks
-> 4. The opposing side then resolves their actions in the same order.
-
-**Example Combat:**
-
-> Referee: "You are surprised! The goblins react immediately to your forced entry into the chamber. They're armed and staring down the intruder. Fighter—you were trained for this! Make an AGILITY (Defense) roll."
-> 
-> Player: "I will! These rag-sacks won't stop me!" (The player has a 2/6 AGILITY)
-> 
-> The player rolls a 5 on their Defense roll. The goblin hits.
-> 
-> Referee: Rolls a d4 for the goblin's damage—gets a 4.
-> 
-> Referee: "The goblin releases an arrow from its poorly made bow. Fighter—roll your armor reduction!"
-> 
-> Player: "Yes! Maybe it won’t hit as hard." (The fighter rolls 1d2 for leather armor and gets a 2.)
-> 
-> Player: "I got a two!"
-> 
-> Referee: "It's just a scratch for now—no Strike taken. Let’s roll for initiative!"
-
-**To-Hit:**
-> Referee: "The goblin snarls and steps back, drawing a jagged dagger. You're up, Fighter—what do you do?"
-> 
-> Player: "I charge and swing my axe right at its neck!" (The Fighter has a MIGHT of 3.)
-> 
-> Referee: "Alright, roll your MIGHT. You’ll need a 3 or lower to hit."
-> 
-> The player rolls a 2 — a hit!
-> 
-> Player: "Yes! Solid hit—now for damage." (The axe deals 1d6. Player rolls a 6 — maximum damage.)
-> 
-> Referee: "That’s a Strike! You catch the goblin right in the collarbone—it lets out a shriek and stumbles back, blood pouring from the wound. It drops."
-> 
-> Player: "I press forward, shield up!"
+Combat in *BareBones RPG* is fast, deadly, and narrative-driven. Every weapon, step, and breath matters. Here's how it flows:
 
 ---
+
+#### **1. Roll Initiative (Every Round)**
+- At the **start of each combat round**, every participant rolls **1d6** for initiative.
+- Highest result acts first.
+- On ties, **players act before enemies**.
+- **Initiative is re-rolled at the top of every round**, not just once per encounter. This keeps action unpredictable and dynamic.
+
+---
+
+#### **2. Player Turn**
+On their turn, a player may:
+- **Attack** (roll a MIGHT test for melee or INSIGHT for ranged)
+- **Move** (engage, flee, or reposition)
+- **Use Gear or Abilities**
+- **Perform a Creative Action** (e.g., disarm, trip, shove, bluff)
+
+**To attack:**  
+Roll 1d6. If equal to or under the relevant attribute, the attack hits.  
+Then roll damage.
+
+---
+
+#### **3. Enemy Turn**
+Enemies follow similar rules:
+- They act in initiative order.
+- **Players always roll to defend** using AGILITY (not the enemy rolling to hit).
+- The Referee describes intent; the player rolls to dodge, parry, or avoid.
+
+**Defense Roll:**  
+- Roll 1d6.
+- If the result is **equal to or under your AGILITY**, you dodge the attack.
+- If you fail, the enemy rolls damage.
+
+---
+
+#### **4. Damage and Strikes**
+- Weapons roll a damage die (e.g., 1d4, 1d6, etc.).
+- A character takes a **Strike** only if the damage die rolls its **maximum value**.
+- Armor reduces damage by a die (e.g., -d2). If the max result is no longer reached after reduction, **no Strike is taken**.
+
+**Example:**  
+A dagger (1d4) rolls a 4 → potential Strike.  
+If leather armor (-d2) reduces it to 2, no Strike occurs.
+
+---
+
+#### Optional: Half Strikes
+Referees may apply **Half Strikes** narratively for near misses, grazing hits, or ongoing effects. These can:
+- Accumulate into a full Strike, or
+- Be ignored for fast-paced play
+
+---
+
+#### Repeat Rounds
+After all participants act, **roll initiative again** and start a new round.
+
+Combat ends when:
+- All enemies are defeated,
+- The party flees,
+- Or the narrative changes the stakes.
+
+---
+
+
 
 <!--TOC link--><a name="armor-list"></a>
 ### Armor List
@@ -339,18 +427,18 @@ The enemy rolls double damage if a player rolls a fumble (typically a 6 on their
 
 | Weapon       | Damage Die | Strike Hits on Maximum Die   | Tags                                |
 |--------------|------------|------------------------------|--------------------------------------|
-| Dagger       | 1d4        | 1 Strike (on a 4), 2 on crit | *Light, Finesse, Concealable*        |
-| Short Sword  | 1d6        | 1 Strike (on a 6), 2 on crit | *Light, Finesse*                     |
-| Longsword    | 1d8        | 1 Strike (on an 8), 2 on crit | *Versatile, Melee*                   |
-| Greatsword   | 1d10       | 1 Strike (on a 10), 2 on crit | *Two-Handed, Heavy*                  |
-| Club         | 1d4        | 1 Strike (on a 4), 2 on crit | *Crude, Blunt*                       |
-| Mace         | 1d6        | 1 Strike (on a 6), 2 on crit | *Blunt, Armor-Piercing*              |
-| Axe          | 1d8        | 1 Strike (on an 8), 2 on crit | *Brutal, Chops*                      |
-| Warhammer    | 1d10       | 1 Strike (on a 10), 2 on crit | *Two-Handed, Blunt, Armor-Piercing* |
-| Spear        | 1d6        | 1 Strike (on a 6), 2 on crit | *Reach, Thrown*                      |
-| Bow          | 1d6        | 1 Strike (on a 6), 2 on crit | *Ranged, Two-Handed*                 |
-| Crossbow     | 1d8        | 1 Strike (on an 8), 2 on crit | *Ranged, Reload, Armor-Piercing*     |
-| Sling        | 1d4        | 1 Strike (on a 4), 2 on crit | *Ranged, Blunt, Concealable*         |
+| Dagger       | 1d4        | 1 Strike (on a 4), 2 strikes on crit | *Light, Finesse, Concealable*        |
+| Short Sword  | 1d6        | 1 Strike (on a 6), 2 strikes on crit | *Light, Finesse*                     |
+| Longsword    | 1d8        | 1 Strike (on an 8), 2 strikes on crit | *Versatile, Melee*                   |
+| Greatsword   | 1d10       | 1 Strike (on a 10), 2 strikes on crit | *Two-Handed, Heavy*                  |
+| Club         | 1d4        | 1 Strike (on a 4), 2 strikes on crit | *Crude, Blunt*                       |
+| Mace         | 1d6        | 1 Strike (on a 6), 2 strikes on crit | *Blunt, Armor-Piercing*              |
+| Axe          | 1d8        | 1 Strike (on an 8), 2 strikes on crit | *Brutal, Chops*                      |
+| Warhammer    | 1d10       | 1 Strike (on a 10), 3 strikes on crit | *Two-Handed, Blunt, Armor-Piercing* |
+| Spear        | 1d6        | 1 Strike (on a 6), 2 strikes on crit | *Reach, Thrown*                      |
+| Bow          | 1d6        | 1 Strike (on a 6), 2 strikes on crit | *Ranged, Two-Handed*                 |
+| Crossbow     | 1d8        | 1 Strike (on an 8), 2 strikes on crit | *Ranged, Reload, Armor-Piercing*     |
+| Sling        | 1d4        | 1 Strike (on a 4), 2 strikes on crit | *Ranged, Blunt, Concealable*         |
 
 ---
 
@@ -381,6 +469,7 @@ The enemy rolls double damage if a player rolls a fumble (typically a 6 on their
 - **Crude** — Common, often improvised or makeshift.
 
 ---
+
 
 
 
