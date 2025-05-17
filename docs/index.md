@@ -192,35 +192,48 @@ Choose your archetype based on the tone of the game and the character's concept.
 
 In *BareBones RPG*, a character’s **Kin** represents their ancestry or species. Each Kin provides a small mechanical bonus and one flavorful ability that reflects their heritage. Players choose one during character creation.
 
+---
+
 **Halfling**  
 *Small, nimble, and unusually lucky.*  
-**Bonus:** +1 Agility  
+**Bonus:** +1 Agility, **+2 Luck**  
 **Ability:** Once per session, ignore a single failed roll as if it had succeeded.
+
+---
 
 **Human**  
 *Versatile and adaptable.*  
-**Bonus:** +1 to Agility, Insight, Might, or Willpower (player's choice)  
+**Bonus:** +1 to Agility, Insight, Might, or Willpower (player's choice), **+1 Luck**  
 **Ability:** Once per session, justify using a different attribute for a roll. The Referee must agree it makes narrative sense.
+
+---
 
 **Dwarf**  
 *Stubborn, durable, and skilled with stone and steel.*  
-**Bonus:** +1 Might  
+**Bonus:** +1 Might, **+1 Luck**  
 **Ability:** Once per session, re-roll a failed Might test against poison.
+
+---
 
 **Elf**  
 *Graceful and insightful, attuned to magic and nature.*  
-**Bonus:** +1 Agility or +1 Insight  
+**Bonus:** +1 Agility or +1 Insight, **+1 Luck**  
 **Ability:** Once per session, re-roll a failed Insight test related to recalling ancient knowledge or history.
+
+---
 
 **Goblin**  
 *Clever, crafty, and chaotic.*  
-**Bonus:** +1 Agility  
+**Bonus:** +1 Agility, **+1 Luck**  
 **Ability:** Once per session, re-roll a failed trap-related test.
+
+---
 
 **Half-Orc**  
 *Strong, imposing, and fearless.*  
-**Bonus:** +1 Might  
+**Bonus:** +1 Might, **+1 Luck**  
 **Ability:** Once per session, re-roll a failed Insight test used to intimidate.
+
 
 ---
 
