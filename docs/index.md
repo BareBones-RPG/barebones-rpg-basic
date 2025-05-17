@@ -74,10 +74,10 @@ This game is designed to support any genre or tone, whether you're running sword
 
 > The **Game Master or Referee** can help players generate their stats by rolling 3d3. The total becomes a pool of points the player can freely distribute among their attributes.
 
-**Optional Rule:** Instead of rolling, the Referee may assign a flat number of points—**6 for gritty games** and **8 for heroic campaigns**.
+**Optional Rule:** Instead of rolling, the Referee may assign a flat number of points—**8 for gritty games** and **10 for heroic campaigns**.
 
 **Example:**  
-If the Referee rolls a 1, 2, and 2, the total is 5. The player then has 5 points to assign across their four attributes however they choose, within the limits of character creation.
+If the Referee rolls a 1, 2, 2, and 3  the total is 8. The player then has 8 points to assign across their five attributes however they choose, within the limits of character creation.
 
 After assigning attributes, the player and Referee discuss the setting and choose an archetype that aligns with the character’s concept and the campaign's tone.
 
@@ -96,7 +96,7 @@ After assigning attributes, the player and Referee discuss the setting and choos
 
 **Willpower** — *Resist fear, use relics or magic weapons, cast spells, perform rituals*
 
-**Luck** — *When fate fails you, Luck is your edge. Roll a 6? Gain 1 Luck. Spend 1 to re-roll, ignore a critical fail, or succeed if you just missed.*
+**Luck** — *When fate fails you, Luck is your edge. Roll a 6? Gain 1 Luck. Spend 1 to re-roll, ignore a critical fail, or do an automatic strike.*
 
 Each attribute must have a score between **1 and 5**.
 No attribute can begin at **0, and no score may exceed 5**—even if the player has points remaining.
@@ -242,7 +242,7 @@ This system encourages fast-paced, cinematic storytelling over number-crunching.
 <!-- TOC link--><a name="barebones-rpg-character-sheet"></a>
 ### CHARACTER SHEET EXAMPLE
 
-Below is an example of a completed character sheet using the **heroic tone** (8 points distributed among attributes):
+Below is an example of a completed character sheet using the **heroic tone** (10 points distributed among attributes):
 
 ---
 
@@ -266,7 +266,8 @@ Below is an example of a completed character sheet using the **heroic tone** (8 
 - **Agility:** 3  
 - **Insight:** 2  
 - **Might:** 2  
-- **Willpower:** 1 (+1 from Kin bonus)  
+- **Willpower:** 1 (+1 from Kin bonus)
+-  **Luck**: 2 
 
 (*Final Willpower score is 2*)
 
