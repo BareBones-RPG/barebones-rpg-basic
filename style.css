@@ -1,6 +1,5 @@
 /* CSS by Victor Gregory */
 
-/* Reset and basic setup */
 body {
   margin: 0;
   font-family: 'Helvetica Neue', sans-serif;
@@ -10,7 +9,6 @@ body {
   min-height: 100vh;
 }
 
-/* Sidebar */
 .sidebar {
   width: 250px;
   background-color: black;
@@ -50,7 +48,6 @@ body {
   text-decoration: underline;
 }
 
-/* Main content */
 .main-content {
   margin-left: 250px;
   padding: 3rem 2rem;
