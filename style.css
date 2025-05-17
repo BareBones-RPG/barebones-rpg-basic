@@ -24,11 +24,33 @@ body {
   overflow-y: auto;
 }
 
+.sidebar h1 {
+  font-family: 'Courier New', monospace;
+  font-size: 1.6rem;
+  margin-bottom: 2rem;
+  text-align: left;
+}
+
 .sidebar ul {
   list-style: none;
   padding: 0;
   margin: 0;
   flex-grow: 1;
+}
+
+.sidebar ul li {
+  margin: 0.75rem 0;
+}
+
+.sidebar ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.sidebar ul li a:hover {
+  color: #ccc;
+  text-decoration: underline;
 }
 
 .sidebar footer {
@@ -37,6 +59,11 @@ body {
   text-align: left;
   margin-top: 2rem;
   line-height: 1.4;
+  background: none;
+  padding: 0;
+  border: none;
+  word-break: break-word;
+  max-width: 200px;
 }
 
 .sidebar footer a {
@@ -56,7 +83,7 @@ body {
 }
 
 .main-content {
-  margin-left: 350px;
+  margin-left: 250px;
   padding: 3rem 2rem;
   max-width: 900px;
 }
@@ -68,45 +95,13 @@ body {
 
 .main-content p {
   line-height: 1.6;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 
 .main-content img {
-  max-width: 500px; /* Restrict logo size */
+  max-width: 500px;
   width: 100%;
   height: auto;
   display: block;
-  margin: 2rem auto; /* This centers it horizontally */
-}
-
-/* Footer styling */
-footer {
-  width: 100%;
-  text-align: center;
-  font-size: 0.85rem;
-  background-color: #f9f9f9;
-  color: #111;
-  padding: 1.5rem 1rem;
-  margin-top: 4rem;
-  border-top: 1px solid #ccc;
-  box-sizing: border-box;
-  clear: both;
-}
-
-footer a {
-  color: black;
-  text-decoration: underline;
-}
-
-footer a:hover {
-  color: #555;
-}
-
-footer img {
-  vertical-align: middle;
-  max-width: 1em;
-  max-height: 1em;
-  margin-left: 0.2em;
-
-  
+  margin: 2rem auto;
 }
