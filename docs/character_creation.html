@@ -2,103 +2,99 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>BareBones RPG Character Creator</title>
+  <title>Character Creation - BareBones RPG</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      background-color: #fafafa;
-      padding: 2rem;
+      font-family: 'Georgia', serif;
+      margin: 2rem auto;
       max-width: 800px;
-      margin: auto;
+      line-height: 1.6;
+      padding: 1rem;
+      background-color: #fdfdfd;
+      color: #222;
     }
     h1, h2 {
-      text-align: center;
+      color: #222;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 0.25rem;
     }
-    label {
-      font-weight: bold;
+    blockquote {
+      background-color: #f0f0f0;
+      padding: 1rem;
+      border-left: 4px solid #999;
     }
-    input, select, textarea {
-      width: 100%;
-      padding: 0.5rem;
-      margin: 0.5rem 0 1rem;
+    ul {
+      margin: 1rem 0;
+      padding-left: 1.5rem;
     }
-    .attribute-row {
-      display: flex;
-      justify-content: space-between;
-    }
-    .attribute-row div {
-      flex: 1;
-      margin-right: 1rem;
-    }
-    .attribute-row div:last-child {
-      margin-right: 0;
-    }
-    .strikes {
-      display: flex;
-      gap: 1rem;
-      align-items: center;
+    strong {
+      color: #000;
     }
   </style>
 </head>
 <body>
 
-  <h1>BareBones RPG</h1>
-  <h2>Character Creation Form</h2>
+  <h1>Character Creation</h1>
 
-  <form>
-    <label for="name">Character Name:</label>
-    <input type="text" id="name" name="name">
+  <p><em>BareBones RPG</em> is setting-agnostic and genre-flexible. Whether you're sneaking through medieval sewers, investigating haunted factories in the 1950s, or scavenging tech in post-apocalyptic ruins—this system adapts.</p>
 
-    <label for="archetype">Archetype:</label>
-    <select id="archetype" name="archetype">
-      <option value="divine">Divine (WILLPOWER)</option>
-      <option value="fighter">Fighter (MIGHT)</option>
-      <option value="magic-user">Magic-User (INSIGHT)</option>
-      <option value="rogue">Rogue (AGILITY)</option>
-    </select>
+  <h2>Step 1: Determine Attribute Points</h2>
+  <p>The Game Master (Referee) rolls <strong>3d3</strong>. The result is the total number of points a player may distribute across their four attributes:</p>
+  <ul>
+    <li><strong>Agility</strong> — Defend, flee, climb, sneak</li>
+    <li><strong>Insight</strong> — Perceive, investigate, recall knowledge, use magic</li>
+    <li><strong>Might</strong> — Lift, strike, smash, grapple</li>
+    <li><strong>Willpower</strong> — Resist fear, cast spells, activate relics</li>
+    <li><</li>
+  </ul>
+  <p>Each attribute must be between <strong>1 and 5</strong>. You cannot set an attribute to 0 or exceed 5.</p>
 
-    <label for="kin">Kin:</label>
-    <select id="kin" name="kin">
-      <option value="human">Human</option>
-      <option value="halfling">Halfling</option>
-      <option value="dwarf">Dwarf</option>
-      <option value="elf">Elf</option>
-      <option value="goblin">Goblin</option>
-      <option value="orc">Half-Orc</option>
-    </select>
+  <h2>Optional Rule: Heroic or Gritty Builds</h2>
+  <p>Instead of rolling, the Referee may assign a flat value:</p>
+  <ul>
+    <li><strong>6 points</strong> — Gritty, low-power characters</li>
+    <li><strong>8 points</strong> — Heroic, high-power characters</li>
+  </ul>
 
-    <label>Attributes (1-5 max, total pool from Referee):</label>
-    <div class="attribute-row">
-      <div>
-        <label for="agility">Agility</label>
-        <input type="number" id="agility" name="agility" min="1" max="5">
-      </div>
-      <div>
-        <label for="insight">Insight</label>
-        <input type="number" id="insight" name="insight" min="1" max="5">
-      </div>
-      <div>
-        <label for="might">Might</label>
-        <input type="number" id="might" name="might" min="1" max="5">
-      </div>
-      <div>
-        <label for="willpower">Willpower</label>
-        <input type="number" id="willpower" name="willpower" min="1" max="5">
-      </div>
-    </div>
+  <h2>Step 2: Choose an Archetype</h2>
+  <p>Archetypes provide thematic direction. They suggest a key attribute but are not mechanical classes:</p>
+  <ul>
+    <li><strong>Divine</strong> (Willpower): Clerics, druids, spiritual warriors</li>
+    <li><strong>Fighter</strong> (Might): Barbarians, duelists, bruisers</li>
+    <li><strong>Magic-User</strong> (Insight): Wizards, scholars, seers</li>
+    <li><strong>Rogue</strong> (Agility): Thieves, scouts, swashbucklers</li>
+  </ul>
 
-    <label>Strikes:</label>
-    <div class="strikes">
-      <input type="checkbox" name="strike1">
-      <input type="checkbox" name="strike2">
-      <input type="checkbox" name="strike3">
-    </div>
+  <h2>Step 3: Select a Kin</h2>
+  <p>Your Kin determines species/ancestry and grants a small bonus and a once-per-session ability:</p>
+  <ul>
+    <li><strong>Halfling:</strong> +1 Agility; ignore one failed roll per session</li>
+    <li><strong>Human:</strong> +1 to any stat; once per session, justify using a different attribute</li>
+    <li><strong>Dwarf:</strong> +1 Might; re-roll one poison-related Might test</li>
+    <li><strong>Elf:</strong> +1 Agility or Insight; re-roll one Insight recall test</li>
+    <li><strong>Goblin:</strong> +1 Agility; re-roll one failed trap test</li>
+    <li><strong>Half-Orc:</strong> +1 Might; re-roll one intimidation-related Insight test</li>
+  </ul>
 
-    <label for="gear">Gear & Weapons:</label>
-    <textarea id="gear" name="gear" rows="4" placeholder="List your equipment, weapons, armor, tools..."></textarea>
+  <h2>Step 4: Assign Strikes</h2>
+  <p>Each character begins with <strong>3 Strikes</strong>. These replace HP. When you take damage and the maximum is rolled on a damage die, you lose a Strike.</p>
 
-    <button type="submit">Save Character</button>
-  </form>
+  <h2>Step 5: Gear Up</h2>
+  <p>The Referee assigns or allows selection of starting weapons, armor, and gear. Archetype and Kin should guide your choices.</p>
+
+  <h2>Character Example</h2>
+  <blockquote>
+    <strong>Name:</strong> Jack Napier<br>
+    <strong>Archetype:</strong> Thief<br>
+    <strong>Kin:</strong> Human (+1 Willpower)<br>
+    <strong>Attributes:</strong><br>
+    • Agility: 3/6<br>
+    • Insight: 2/6<br>
+    • Might: 2/6<br>
+    • Willpower: 2/6 (includes Kin bonus)<br>
+    <strong>Strikes:</strong> [ ] [ ] [ ]<br>
+    <strong>Gear:</strong> Dagger (1d4), Leather Armor (-d2), Thieves’ Tools, Hooded Cloak
+  </blockquote>
 
 </body>
 </html>
