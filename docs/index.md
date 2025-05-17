@@ -89,9 +89,13 @@ After assigning attributes, the player and Referee discuss the setting and choos
 *BareBones RPG* uses four core attributes to define characters:
 
 **Agility** — *Defend, balance, swim, flee*  
+
 **Insight** — *Perceive, aim, charm, recall knowledge*  
+
 **Might** — *Crush, lift, strike, grapple*  
+
 **Willpower** — *Resist fear, use relics or magic weapons, cast spells, perform rituals*
+
 **Luck** — *When fate fails you, Luck is your edge. Roll a 6? Gain 1 Luck. Spend 1 to re-roll, ignore a critical fail, or succeed if you just missed.*
 
 Each attribute must have a score between **1 and 5**.
