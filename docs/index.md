@@ -106,6 +106,26 @@ Any extra points can be discarded or saved at the Referee’s discretion.
 
 ---
 
+<!-- TOC link--><a name="luck"></a>
+### Using Luck
+
+**Luck** is an attribute that players can **burn before or after a roll**.  
+Players decide how many points to assign to this attribute during character creation.
+
+Luck represents a character's ability to twist fate in their favor—rewinding outcomes, bending odds, or pulling off unlikely feats.
+
+Luck can be used in the following ways:
+
+- **Gain a +2 bonus to a test** (*before rolling*). This increases your chance of success, but not beyond 5-in-6.
+- **Neutralize a fumble** (*after rolling a 6*), turning it into a normal failure.
+- **Automatically deal a Strike** when your attack hits—no need to roll for damage.
+- **Act first in initiative** for the round, regardless of the roll.
+
+> Once spent, Luck is gone until it’s regained.  
+> Players can regain Luck by rolling a **6** during any test, at the Referee’s discretion, or through bold and cinematic roleplay moments.
+
+  
+
 <!-- TOC link--><a name="game-of-chances"></a>
 ### GAME OF CHANCES
 
