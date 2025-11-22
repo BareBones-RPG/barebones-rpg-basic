@@ -408,19 +408,19 @@ Combat ends when:
 ### Armor List
 *BareBones RPG Basic* features a streamlined armor system:
 
-| Armor Type     | Damage Reduction | Examples                  | Notes / Cost |
-|----------------|------------------|----------------------------|--------------|
-| None           | —                | *Clothes, rags, robes*     | —            |
-| Light Armor    | -d2              | *Leather armor*            | —            |
-| Medium Armor   | -d4              | *Chainmail*                | —            |
-| Heavy Armor    | -d6              | *Plate armor*              | —            |
+| Armor Type     | Damage Reduction | Examples                   | Notes / Cost |Tier|
+|:----------------|:------------------:|:----------------------------|--------------|:-------:|
+| None           | —                | *Clothes, rags, robes*     | —            |--     |
+| Light Armor    | -1              | *Leather armor*             | —            |1      |
+| Medium Armor   | -2              | *Chainmail*                 | —            |2      |
+| Heavy Armor    | -3              | *Plate armor*               | —            |3      |
 
 In combat, critical attacks and fumbles can alter the flow of battle significantly:
-A **critical attack** reduces the target’s armor efficiency. The Referee will rule that the armor’s damage reduction die is reduced by one step (e.g., from -d6 to -d4) for the duration of the encounter or until repaired.
+A **critical attack** reduces the target’s armor efficiency down a tier. The Referee will rule that the armor’s damage reduction reduced by one tier (e.g., from 3 to 2) for the duration of the encounter or until repaired.
 
 The enemy rolls double damage if a player rolls a fumble (typically a 6 on their Defense roll). In addition, the target's armor reduction is weakened, decreasing its effectiveness by one die step.
 
-> **Example:** A character wearing chainmail (normally -d4 damage reduction) suffers a fumbled defense. The enemy rolls double damage, and the armor reduces damage reduction by only -d2 until repaired.
+> **Example:** A character wearing chainmail (normally -3 damage reduction) suffers a fumbled defense. The enemy rolls double damage, and the armor reduces damage reduction by only -2 until repaired or destroyed.
 
 ---
 
