@@ -1,11 +1,43 @@
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [BAREBONES (BBBX)](#barebones-bbbx)
+   * [THE ROLE-PLAYING GAME](#the-role-playing-game)
+      + [Credits](#credits)
+   * [Table of Contents](#table-of-contents)
+   * [WHAT DO YOU NEED TO PLAY THIS GAME?](#what-do-you-need-to-play-this-game)
+   * [HOW TO PLAY](#how-to-play)
+   * [CHARACTER CREATION](#character-creation)
+   * [LEARNING THE ATTRIBUTES](#learning-the-attributes)
+   * [USING LUCK](#using-luck)
+   * [REFEREE’S CORNER](#referees-corner)
+   * [HELP & HINDER](#help-hinder)
+   * [MOVEMENT](#movement)
+   * [ARCHETYPES](#archetypes)
+   * [PRAYER & SPELLCASTING](#prayer-spellcasting)
+      + [Divine Penance](#divine-penance)
+      + [Casting Mishaps (d6)](#casting-mishaps-d6)
+   * [KIN](#kin)
+   * [COMBAT PHASE](#combat-phase)
+      + [Damage & Hits](#damage-hits)
+   * [ARMOR LIST](#armor-list)
+   * [WEAPON LIST (Fantasy)](#weapon-list-fantasy)
+   * [BESTIARY](#bestiary)
+      + [BANDIT](#bandit)
+      + [BUGBEAR](#bugbear)
+
+<!-- TOC end -->
+
 This is a clean Markdown conversion of your **BAREBONES (BBBX)** documentation, optimized for a GitHub README or Wiki. I have organized the tables, added clear hierarchies, and ensured the formatting makes the rules easy to read at a glance.
 
 ---
 
+<!-- TOC --><a name="barebones-bbbx"></a>
 # BAREBONES (BBBX)
 
+<!-- TOC --><a name="the-role-playing-game"></a>
 ## THE ROLE-PLAYING GAME
 
+<!-- TOC --><a name="credits"></a>
 ### Credits
 
 * **Game Designed by:** Victor "Vikko" Gregory Matos
@@ -17,6 +49,7 @@ This is a clean Markdown conversion of your **BAREBONES (BBBX)** documentation, 
 
 ---
 
+<!-- TOC --><a name="table-of-contents"></a>
 ## Table of Contents
 
 1. [What Do You Need to Play?](https://www.google.com/search?q=%23what-do-you-need-to-play-this-game)
@@ -37,6 +70,7 @@ This is a clean Markdown conversion of your **BAREBONES (BBBX)** documentation, 
 
 ---
 
+<!-- TOC --><a name="what-do-you-need-to-play-this-game"></a>
 ## WHAT DO YOU NEED TO PLAY THIS GAME?
 
 * Pencils
@@ -49,6 +83,7 @@ This is a clean Markdown conversion of your **BAREBONES (BBBX)** documentation, 
 
 ---
 
+<!-- TOC --><a name="how-to-play"></a>
 ## HOW TO PLAY
 
 Each Player Character (PC) has attributes (1 to 5). To perform an action, roll **equal to or lower** than the attribute's value on **1d6**.
@@ -57,6 +92,7 @@ Each Player Character (PC) has attributes (1 to 5). To perform an action, roll *
 
 ---
 
+<!-- TOC --><a name="character-creation"></a>
 ## CHARACTER CREATION
 
 BareBones RPG is system-agnostic and setting-neutral. The Referee (Ref) helps players generate stats using one of two methods:
@@ -72,6 +108,7 @@ BareBones RPG is system-agnostic and setting-neutral. The Referee (Ref) helps pl
 
 ---
 
+<!-- TOC --><a name="learning-the-attributes"></a>
 ## LEARNING THE ATTRIBUTES
 
 * **AGILITY:** Defend, balance, swim, flee.
@@ -82,6 +119,7 @@ BareBones RPG is system-agnostic and setting-neutral. The Referee (Ref) helps pl
 
 ---
 
+<!-- TOC --><a name="using-luck"></a>
 ## USING LUCK
 
 Spend **1 Luck** to:
@@ -95,6 +133,7 @@ Spend **1 Luck** to:
 
 ---
 
+<!-- TOC --><a name="referees-corner"></a>
 ## REFEREE’S CORNER
 
 The Referee also has **LUC** points to:
@@ -105,6 +144,7 @@ The Referee also has **LUC** points to:
 
 ---
 
+<!-- TOC --><a name="help-hinder"></a>
 ## HELP & HINDER
 
 The Referee determines modifiers based on the narrative before a roll.
@@ -115,6 +155,7 @@ The Referee determines modifiers based on the narrative before a roll.
 
 ---
 
+<!-- TOC --><a name="movement"></a>
 ## MOVEMENT
 
 * **Close:** 5 feet
@@ -124,6 +165,7 @@ The Referee determines modifiers based on the narrative before a roll.
 
 ---
 
+<!-- TOC --><a name="archetypes"></a>
 ## ARCHETYPES
 
 | Archetype | Primary Attribute | Focus |
@@ -135,8 +177,10 @@ The Referee determines modifiers based on the narrative before a roll.
 
 ---
 
+<!-- TOC --><a name="prayer-spellcasting"></a>
 ## PRAYER & SPELLCASTING
 
+<!-- TOC --><a name="divine-penance"></a>
 ### Divine Penance
 
 If a Divine PC fumbles a prayer, they lose 1 WIL and must perform:
@@ -145,6 +189,7 @@ If a Divine PC fumbles a prayer, they lose 1 WIL and must perform:
 * **Sacrificial Offering:** 5–10 gold or a valuable item.
 * **The Vow:** A temporary self-imposed Burden (-1 to tests).
 
+<!-- TOC --><a name="casting-mishaps-d6"></a>
 ### Casting Mishaps (d6)
 
 | Roll | Mishap | Consequence |
@@ -158,6 +203,7 @@ If a Divine PC fumbles a prayer, they lose 1 WIL and must perform:
 
 ---
 
+<!-- TOC --><a name="kin"></a>
 ## KIN
 
 | Kin | Bonus | Ability (1/Session) |
@@ -171,6 +217,7 @@ If a Divine PC fumbles a prayer, they lose 1 WIL and must perform:
 
 ---
 
+<!-- TOC --><a name="combat-phase"></a>
 ## COMBAT PHASE
 
 1. **Initiative:** Roll 1d6 per round. **1-3:** Players first. **4-6:** Enemies first.
@@ -179,8 +226,7 @@ If a Divine PC fumbles a prayer, they lose 1 WIL and must perform:
 * **Dodge:** Roll vs **AGI**.
 * **Parry:** Roll vs **MIGHT** (Reduces weapon tier instead of Hits).
 
-
-
+<!-- TOC --><a name="damage-hits"></a>
 ### Damage & Hits
 
 * **0 Hits:** PCs don't die immediately. Instead, attributes decrease:
@@ -189,10 +235,9 @@ If a Divine PC fumbles a prayer, they lose 1 WIL and must perform:
 * **Insight 0:** Disheartened (Must be snapped out of it).
 * **Willpower 0:** Catatonic (Requires 3 days rest + WIL test).
 
-
-
 ---
 
+<!-- TOC --><a name="armor-list"></a>
 ## ARMOR LIST
 
 | Armor Type | Tier | Absorption | Examples |
@@ -204,6 +249,7 @@ If a Divine PC fumbles a prayer, they lose 1 WIL and must perform:
 
 ---
 
+<!-- TOC --><a name="weapon-list-fantasy"></a>
 ## WEAPON LIST (Fantasy)
 
 | Weapon | Static / Crit Hits | Tags | Tier |
@@ -212,6 +258,8 @@ If a Divine PC fumbles a prayer, they lose 1 WIL and must perform:
 | Longsword | 2 / 4 | Versatile, Melee | 4 |
 | Greatsword | 2 / 4 | Two-Handed, Heavy | 4 |
 | Bow | 1 / 2 | Ranged, Two-Handed | 2 |
+
 ---
 
-Would you like me to create a separate Markdown file for the **Weapon Tags** or the **Pulp Adventure** setting weapons to keep the README shorter?
+<!-- TOC --><a name="bestiary"></a>
+## BESTIARY
